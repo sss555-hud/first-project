@@ -1,0 +1,7 @@
+.box {
+    width: 400px;
+    height: 400px;
+    background: linear-gradient(135deg, #a7d218, #17c2d9);
+    border-radius: 15px;
+    margin: 0 auto;
+}
