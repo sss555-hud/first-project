@@ -5,3 +5,11 @@
     border-radius: 15px;
     margin: 0 auto;
 }
+.content {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(138deg, #260bd3c6, #23d707);
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
